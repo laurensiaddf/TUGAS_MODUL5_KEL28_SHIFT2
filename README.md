@@ -1,7 +1,7 @@
 # TUGAS_MODUL5_KEL28_SHIFT2
 React Lists, Mengambil Data dari Server dan Cara Memakai API terdapat axios, component lifecycle method berupa ComponentDidMount(), method GET, useContext, useState
 
-#LINK DEPLOY : https://tugasmodul5kel28shift2.herokuapp.com
+# LINK DEPLOY : https://tugasmodul5kel28shift2.herokuapp.com
 Harus di reload minimal 3 kali biar bisa tampil
 
 Praktikum RSBK - KELOMPOK 28
